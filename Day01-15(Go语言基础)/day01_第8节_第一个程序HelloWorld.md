@@ -18,6 +18,11 @@ gopath目录就是我们存储我们所编写源代码的目录。该目录下�
 >
 > bin ---- 生成的可执行文件。
 
+Bush
+The following is the example for CentOS 7:
+export GOPATH=/root/Documents/goworkspace
+
+The goworkspace is the project directory. It has three folder: src, bin, pkg.
 
 
 ### 1.2 编写第一个程序
