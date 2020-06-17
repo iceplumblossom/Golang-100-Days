@@ -9,6 +9,8 @@
 
 ![yuanmawenjian1](img/yuanmawenjian1.png)
 
+![source code types](img/sourcecodefile01.png "source code type")
+
 如上图，分为三类：
 
 **1、命令源码文件：**
